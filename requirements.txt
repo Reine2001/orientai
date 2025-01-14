@@ -1,6 +1,7 @@
-streamlit
+pandas
+numpy
+faiss-cpu  
 python-dotenv
 google-generativeai
-requests
-faiss
-sentence_transformers
+sentence-transformers
+streamlit
